@@ -5,7 +5,7 @@ public class CopyFile {
    public static void main(String args[]) throws IOException {  
       FileInputStream in = null;
       FileOutputStream out = null;
-
+      //test
       try {
          //in = new FileInputStream(".\\input.txt");
          
